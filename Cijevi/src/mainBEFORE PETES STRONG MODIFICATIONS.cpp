@@ -4,7 +4,7 @@ int time1=10000;
 int time2=10000;
 int time3=10000;
 int time4=10000;
-int i=1;
+int i=0;
 
 void setup() {
   Serial.begin (9600);
