@@ -43,6 +43,8 @@ void setup() {
 //Init Display
   lcd.begin(16,2);
   lcd.clear();
+ //Welcome message? 
+  lcd.print("Dobar dan!")
 }
 
 
