@@ -44,7 +44,7 @@ void setup() {
   lcd.begin(16,2);
   lcd.clear();
  //Welcome message? 
-  lcd.print("Dobar dan!")
+  lcd.print("Dobar dan!");
 }
 
 
